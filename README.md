@@ -14,52 +14,70 @@ Please register to attend the workshop [here](https://docs.google.com/forms/d/e/
 <table>
   <tr>
     <td align="center">
-      <img src="image/gao.png" alt="gao" width="200"/><br />
-      <strong>Xinghua Gao</strong>
+      <a href="https://mlsoc.vt.edu/about/faculty-and-staff/xinghua-gao.html">
+        <img src="image/gao.png" alt="gao" width="200"/><br />
+        <strong>Xinghua Gao</strong>
+      </a>
     </td>
     <td align="center">
-      <img src="image/Meng.jpg" alt="Meng" width="200"/><br />
-      <strong>Na Meng</strong>
+      <a href="https://people.cs.vt.edu/nm8247/">
+        <img src="image/Meng.jpg" alt="Meng" width="200"/><br />
+        <strong>Na Meng</strong>
+      </a>
     </td>
     <td align="center">
-      <img src="image/Yao.jpg" alt="Yao" width="200"/><br />
-      <strong>Daphne Yao</strong>
-    </td>
-  </tr>
-</table>
-
-## Invited Talks
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="image/LuFeng.jpg" alt="LuFeng" width="200"/><br />
-      <strong>Lu Feng</strong>
-    </td>
-    <td align="center">
-      <img src="image/LongChen.jpg" alt="LongChen" width="200"/><br />
-      <strong>Long Cheng</strong>
-    </td>
-    <td align="center">
-      <img src="image/Haibozeng.jpg" alt="Haibozeng" width="200"/><br />
-      <strong>Haibo Zeng</strong>
+      <a href="https://people.cs.vt.edu/danfeng/">
+        <img src="image/Yao.jpg" alt="Yao" width="200"/><br />
+        <strong>Daphne Yao</strong>
+      </a>
     </td>
   </tr>
 </table>
 
+## Invited Speakers
+
 <table>
   <tr>
     <td align="center">
-      <img src="image/image/MengxiZhang.jpg" alt="MengxiZhang" width="200"/><br />
-      <strong>Mengxi Zhang</strong>
+      <a href="https://engineering.virginia.edu/faculty/lu-feng">
+        <img src="image/LuFeng.jpg" alt="LuFeng" width="200"/><br />
+        <strong>Lu Feng</strong>
+      </a>
     </td>
     <td align="center">
-      <img src="image/BenChambers.jpg" alt="BenChambers" width="200"/><br />
-      <strong>Benjamin Chambers</strong>
+      <a href="https://people.computing.clemson.edu/~lcheng2/">
+        <img src="image/LongChen.jpg" alt="LongChen" width="200"/><br />
+        <strong>Long Cheng</strong>
+      </a>
     </td>
     <td align="center">
-      <img src="image/YimingFeng.jpg" alt="YimingFeng" width="200"/><br />
-      <strong>Yiming Feng</strong>
+      <a href="https://ece.vt.edu/people/profile/zeng.html">
+        <img src="image/Haibozeng.jpg" alt="Haibozeng" width="200"/><br />
+        <strong>Haibo Zeng</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://experts.vt.edu/24861-mengxi-zhang">
+        <img src="image/MengxiZhang.jpg" alt="MengxiZhang" width="200"/><br />
+        <strong>Mengxi Zhang</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://enge.vt.edu/People/instructors-and-pop/benchambers.html">
+        <img src="image/BenChambers.jpg" alt="BenChambers" width="200"/><br />
+        <strong>Benjamin Chambers</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.bse.vt.edu/people/faculty/yiming-feng.html">
+        <img src="image/YimingFeng.jpg" alt="YimingFeng" width="200"/><br />
+        <strong>Yiming Feng</strong>
+      </a>
     </td>
   </tr>
 </table>
