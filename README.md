@@ -11,17 +11,22 @@ Please register to attend the workshop [here](https://docs.google.com/forms/d/e/
 
 ## Organizers
 
-<img src="image/gao.png" alt="gao" width="200"/>
-
-Xinghua Gao
-
-<img src="image/Meng.jpg" alt="Meng" width="200"/>
-
-Na Meng
-
-<img src="image/Yao.jpg" alt="Yao" width="200"/>
-
-Daphne Yao
+<table>
+  <tr>
+    <td align="center">
+      <img src="image/gao.png" alt="gao" width="200"/><br />
+      <strong>Xinghua Gao</strong>
+    </td>
+    <td align="center">
+      <img src="image/Meng.jpg" alt="Meng" width="200"/><br />
+      <strong>Na Meng</strong>
+    </td>
+    <td align="center">
+      <img src="image/Yao.jpg" alt="Yao" width="200"/><br />
+      <strong>Daphne Yao</strong>
+    </td>
+  </tr>
+</table>
 
 ## Invited Talks
 
