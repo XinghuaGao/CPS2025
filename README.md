@@ -50,7 +50,7 @@ Please register to attend the workshop [here](https://docs.google.com/forms/d/e/
 <table>
   <tr>
     <td align="center">
-      <img src="image/image/MengxiZhang .jpg" alt="MengxiZhang" width="200"/><br />
+      <img src="image/image/MengxiZhang.jpg" alt="MengxiZhang" width="200"/><br />
       <strong>Mengxi Zhang</strong>
     </td>
     <td align="center">
