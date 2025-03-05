@@ -82,6 +82,19 @@ Please register to attend the workshop [here](https://docs.google.com/forms/d/e/
   </tr>
 </table>
 
+## Workshop Schedule
+**Date & Time:** Friday, April 4th, 9:00 AM – 1:00 PM
+
+| Time                  | Event                                                                                                                                                                                                                                                            |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **9:00 – 9:20 AM**    | **Breakfast**                                                                                                                                                                                                                                                    |
+| **9:20 – 9:30 AM**    | **Welcome**                                                                                                                                                                                                                                                      |
+| **9:30 – 10:50 AM**   | **First Session** (four presentations) <br /> • Dr. Xinghua Gao <br /> • Dr. Long Cheng <br /> • Dr. Haibo Zeng <br /> • Dr. Mengxi Zhang                                                                                     |
+| **10:50 – 11:20 AM**  | **Break**                                                                                                                                                                                                                                                        |
+| **11:20 AM – 12:20 PM** | **Second Session** (three presentations) <br /> • Dr. Benjamin Chambers <br /> • Dr. Yiming Feng <br /> • Dr. Lu Feng                                                                                                                                           |
+| **12:20 PM**          | **Lunch**                                                                                                                                                                                                                                                        |
+| **1:00 PM**           | **Closing Remarks**      
+
 ## Sponsor
-Commonwealth Cyber Initiative
+[![CCI](image/cci.png)](https://cyberinitiative.org/)
 
