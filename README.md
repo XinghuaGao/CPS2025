@@ -14,9 +14,11 @@ Please register to attend the workshop [here](https://docs.google.com/forms/d/e/
 
 Xinghua Gao
 
-<img src="image/Meng.jpg" alt="Meng" width="200"/>
+
 
 Na Meng
+
+
 
 Daphne Yao
 
