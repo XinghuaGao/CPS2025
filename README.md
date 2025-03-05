@@ -30,30 +30,39 @@ Please register to attend the workshop [here](https://docs.google.com/forms/d/e/
 
 ## Invited Talks
 
-<img src="image/LuFeng.jpg" alt="LuFeng" width="200"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="image/LuFeng.jpg" alt="LuFeng" width="200"/><br />
+      <strong>Lu Feng</strong>
+    </td>
+    <td align="center">
+      <img src="image/LongChen.jpg" alt="LongChen" width="200"/><br />
+      <strong>Long Cheng</strong>
+    </td>
+    <td align="center">
+      <img src="image/Haibozeng.jpg" alt="Haibozeng" width="200"/><br />
+      <strong>Haibo Zeng</strong>
+    </td>
+  </tr>
+</table>
 
-Lu Feng
-
-<img src="image/LongChen.jpg" alt="LongChen" width="200"/>
-
-Long Cheng
-
-<img src="image/Haibozeng.jpg" alt="Haibozeng" width="200"/>
-
-Haibo Zeng
-
-<img src="image/MengxiZhang .jpg" alt="MengxiZhang" width="200"/>
-
-Mengxi Zhang 
-
-<img src="image/BenChambers.jpg" alt="BenChambers" width="200"/>
-
-Benjamin Chambers
-
-<img src="image/YimingFeng.jpg" alt="YimingFeng" width="200"/>
-
-Yiming Feng
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="image/image/MengxiZhang .jpg" alt="MengxiZhang" width="200"/><br />
+      <strong>Mengxi Zhang</strong>
+    </td>
+    <td align="center">
+      <img src="image/BenChambers.jpg" alt="BenChambers" width="200"/><br />
+      <strong>Benjamin Chambers</strong>
+    </td>
+    <td align="center">
+      <img src="image/YimingFeng.jpg" alt="YimingFeng" width="200"/><br />
+      <strong>Yiming Feng</strong>
+    </td>
+  </tr>
+</table>
 
 ## Sponsor
 Commonwealth Cyber Initiative
