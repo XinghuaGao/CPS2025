@@ -18,23 +18,33 @@ Please register to attend the workshop [here](https://docs.google.com/forms/d/e/
     <td align="center">
       <a href="https://mlsoc.vt.edu/about/faculty-and-staff/xinghua-gao.html">
         <img src="image/gao.png" alt="gao" width="200"/><br />
-        <strong>Xinghua Gao</strong>
+        <strong>Xinghua Gao</strong><br />
+        Assistant Professor<br />
+        Myers-Lawson School of Construction<br />
+        Virginia Tech
       </a>
     </td>
     <td align="center">
       <a href="https://people.cs.vt.edu/nm8247/">
         <img src="image/Meng.jpg" alt="Meng" width="200"/><br />
-        <strong>Na Meng</strong>
+        <strong>Na Meng</strong><br />
+        Associate Professor<br />
+        Department of Computer Science<br />
+        Virginia Tech
       </a>
     </td>
     <td align="center">
       <a href="https://people.cs.vt.edu/danfeng/">
         <img src="image/Yao.jpg" alt="Yao" width="200"/><br />
-        <strong>Daphne Yao</strong>
+        <strong>Daphne Yao</strong><br />
+        Professor<br />
+        Department of Computer Science<br />
+        Virginia Tech
       </a>
     </td>
   </tr>
 </table>
+
 
 ## Invited Speakers
 
@@ -43,42 +53,61 @@ Please register to attend the workshop [here](https://docs.google.com/forms/d/e/
     <td align="center">
       <a href="https://engineering.virginia.edu/faculty/lu-feng">
         <img src="image/LuFeng.jpg" alt="LuFeng" width="200"/><br />
-        <strong>Lu Feng</strong>
+        <strong>Lu Feng</strong><br />
+        Associate Professor<br />
+        Department of Computer Science<br />
+        University of Virginia
       </a>
     </td>
     <td align="center">
       <a href="https://people.computing.clemson.edu/~lcheng2/">
         <img src="image/LongChen.jpg" alt="LongChen" width="200"/><br />
-        <strong>Long Cheng</strong>
+        <strong>Long Cheng</strong><br />
+        Associate Professor<br />
+        School of Computing<br />
+        Clemson University
       </a>
     </td>
     <td align="center">
       <a href="https://ece.vt.edu/people/profile/zeng.html">
         <img src="image/Haibozeng.jpg" alt="Haibozeng" width="200"/><br />
-        <strong>Haibo Zeng</strong>
+        <strong>Haibo Zeng</strong><br />
+        Associate Professor<br />
+        Bradley Department of Electrical and Computer Engineering<br />
+        Virginia Tech
       </a>
     </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
     <td align="center">
       <a href="https://experts.vt.edu/24861-mengxi-zhang">
         <img src="image/MengxiZhang.jpg" alt="MengxiZhang" width="200"/><br />
-        <strong>Mengxi Zhang</strong>
+        <strong>Mengxi Zhang</strong><br />
+        Assistant Professor<br />
+        Department of Health Systems and Implementation Science<br />
+        Virginia Tech
       </a>
     </td>
     <td align="center">
       <a href="https://enge.vt.edu/People/instructors-and-pop/benchambers.html">
         <img src="image/BenChambers.jpg" alt="BenChambers" width="200"/><br />
-        <strong>Benjamin Chambers</strong>
+        <strong>Benjamin Chambers</strong><br />
+        Assistant Professor<br />
+        Department of Engineering Education<br />
+        Virginia Tech
       </a>
     </td>
     <td align="center">
       <a href="https://www.bse.vt.edu/people/faculty/yiming-feng.html">
         <img src="image/YimingFeng.jpg" alt="YimingFeng" width="200"/><br />
-        <strong>Yiming Feng</strong>
+        <strong>Yiming Feng</strong><br />
+        Assistant Professor<br />
+        Department of Biological Systems Engineering<br />
+        Virginia Tech
       </a>
     </td>
   </tr>
@@ -90,12 +119,12 @@ Please register to attend the workshop [here](https://docs.google.com/forms/d/e/
 | Time                  | Event                                                                                                                                                                                                                                                            |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **9:00 – 9:20 AM**    | **Breakfast**                                                                                                                                                                                                                                                    |
-| **9:20 – 9:30 AM**    | **Welcome**                                                                                                                                                                                                                                                      |
+| **9:20 – 9:30 AM**    | **Welcome Speech by Xingua Gao**                                                                                                                                                                                                                                                      |
 | **9:30 – 10:50 AM**   | **First Session** (four presentations) <br /> • Dr. Xinghua Gao <br /> • Dr. Long Cheng <br /> • Dr. Haibo Zeng <br /> • Dr. Mengxi Zhang                                                                                     |
 | **10:50 – 11:20 AM**  | **Break**                                                                                                                                                                                                                                                        |
 | **11:20 AM – 12:20 PM** | **Second Session** (three presentations) <br /> • Dr. Benjamin Chambers <br /> • Dr. Yiming Feng <br /> • Dr. Lu Feng                                                                                                                                           |
 | **12:20 PM**          | **Lunch**                                                                                                                                                                                                                                                        |
-| **1:00 PM**           | **Closing Remarks**      
+| **1:00 PM**           | **Closing Remark by Na Meng**      
 
 ## Sponsor
 [![CCI](image/cci.png)](https://cyberinitiative.org/)
