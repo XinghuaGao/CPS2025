@@ -5,7 +5,7 @@ This workshop aims to inspire and empower CCI researchers interested in Cyber-Ph
 
 The workshop brings together researchers from diverse domains to explore interdisciplinary approaches to CPS research. Key topics include: (1) emerging CPS applications in healthcare, smart built environments, and robotics; (2) CPS security and resilience strategies; and (3) educational frameworks for training the next generation of CPS professionals. Through presentations, discussions, and collaborative sessions, participants will gain valuable insights into advancing CPS innovation, mitigating risks, and enhancing workforce development.
 
-The workshop will take place on **`Friday, April 4th, 2025, from 9:00 AM to 1:00 PM`**. Registered participants can attend the workshop in person at the **`Gilbert Place, Room 4001, at Virginia Tech`**.
+The workshop will take place on **`Friday, April 4th, 2025, from 9:00 AM to 1:00 PM`**. Registered participants can attend the workshop in person at the **`Gilbert Place, Room 4001 (tentative), at Virginia Tech`**.
 Registration for this workshop participation is free, underscoring our commitment to inclusivity and knowledge-sharing. We will provide coffee and light refreshments during breaks as well as lunch. Participants are encouraged to make their own arrangements for sustenance, transportation, and accommodations.
 
 ## Registration
