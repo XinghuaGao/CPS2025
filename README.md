@@ -5,7 +5,7 @@ This workshop aims to inspire and empower CCI researchers interested in Cyber-Ph
 
 The workshop brings together researchers from diverse domains to explore interdisciplinary approaches to CPS research. Key topics include: (1) emerging CPS applications in healthcare, smart built environments, and robotics; (2) CPS security and resilience strategies; and (3) educational frameworks for training the next generation of CPS professionals. Through presentations, discussions, and collaborative sessions, participants will gain valuable insights into advancing CPS innovation, mitigating risks, and enhancing workforce development.
 
-The workshop will take place on **`Friday, April 4th, 2025, from 9:00 AM to 1:00 PM`**. Registered participants can attend the workshop in person at the **`Gilbert Place, Room 4001 (tentative), at Virginia Tech`**.
+The workshop will take place on **`Friday, April 4th, 2025, from 10:50 AM to 2:30 PM`**. Registered participants can attend the workshop in person at the **`Gilbert Place, Room 4001 (tentative), at Virginia Tech`**.
 Registration for this workshop participation is free, underscoring our commitment to inclusivity and knowledge-sharing. We will provide coffee and light refreshments during breaks as well as lunch. Participants are encouraged to make their own arrangements for sustenance, transportation, and accommodations.
 
 ## Registration
@@ -114,17 +114,17 @@ Please register to attend the workshop [here](https://docs.google.com/forms/d/e/
 </table>
 
 ## Workshop Schedule
-**Date & Time:** Friday, April 4th, 9:00 AM – 1:00 PM
+**Date & Time:** Friday, April 4th, 10:50 AM – 2:30 PM
 
-| Time                  | Event                                                                                                                                                                                                                                                            |
-|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **9:00 – 9:20 AM**    | **Breakfast**                                                                                                                                                                                                                                                    |
-| **9:20 – 9:30 AM**    | **Welcome Speech by Xingua Gao**                                                                                                                                                                                                                                                      |
-| **9:30 – 10:50 AM**   | **First Session** (four presentations) <br /> • Dr. Xinghua Gao <br /> • Dr. Long Cheng <br /> • Dr. Haibo Zeng <br /> • Dr. Mengxi Zhang                                                                                     |
-| **10:50 – 11:20 AM**  | **Break**                                                                                                                                                                                                                                                        |
-| **11:20 AM – 12:20 PM** | **Second Session** (three presentations) <br /> • Dr. Benjamin Chambers <br /> • Dr. Yiming Feng <br /> • Dr. Lu Feng                                                                                                                                           |
-| **12:20 PM**          | **Lunch**                                                                                                                                                                                                                                                        |
-| **1:00 PM**           | **Closing Remark by Na Meng**      
+| Time                  | Event                                                                                                                                     |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| **10:50 – 11:00 AM**  | **Welcome Speech by Xinghua Gao (snacks provided)**                                                                                       |
+| **11:00 AM – 12:20 PM** | **First Session** (four presentations)<br/> • Dr. Long Cheng — *Security and Privacy in Smart Home and Cyber-Physical Systems* <br/> • Dr. Haibo Zeng — *TBD* <br/> • Dr. Mengxi Zhang — *Harnessing Wearable Technology to Enhance Maternal Health* <br/> • Dr. Lu Feng — *Towards Safe and Trustworthy Cyber-Physical Systems* |
+| **12:20 PM – 1:20 PM**| **Lunch**                                                                                                                                |
+| **1:20 – 2:20 PM**    | **Second Session** (three presentations)<br/> • Dr. Benjamin Chambers — *TBD* <br/> • Dr. Yiming Feng — *TBD* <br/> • Dr. Xinghua Gao — *Generative AI Agents for Smart Building Cybersecurity*                                                                                               |
+| **2:20 PM – 2:30 PM** | **Closing Remark by Na Meng**                                                                                                             |
+
+
 
 ## Sponsor
 [![CCI](image/cci.png)](https://cyberinitiative.org/)
