@@ -5,11 +5,16 @@ This workshop aims to inspire and empower CCI researchers interested in Cyber-Ph
 
 The workshop brings together researchers from diverse domains to explore interdisciplinary approaches to CPS research. Key topics include: (1) emerging CPS applications in healthcare, smart built environments, and robotics; (2) CPS security and resilience strategies; and (3) educational frameworks for training the next generation of CPS professionals. Through presentations, discussions, and collaborative sessions, participants will gain valuable insights into advancing CPS innovation, mitigating risks, and enhancing workforce development.
 
-The workshop will take place on **`Friday, April 4th, 2025, from 10:50 AM to 2:30 PM`**. Registered participants can attend the workshop in person at the **`Gilbert Place, Room 4001 (tentative), at Virginia Tech`**.
+The workshop will take place on **`Friday, April 4th, 2025, from 10:50 AM to 2:30 PM`**. Registered participants can attend the workshop in person at the **`Gilbert Place, Room 4001 (tentative), at Virginia Tech`** or online via Zoom.
 Registration for this workshop participation is free, underscoring our commitment to inclusivity and knowledge-sharing. We will provide coffee and light refreshments during breaks as well as lunch. Participants are encouraged to make their own arrangements for sustenance, transportation, and accommodations.
 
 ## Registration
-Please register to attend the workshop [here](https://docs.google.com/forms/d/e/1FAIpQLSe5cdHj8TLBz1V_uehZOWMdS8qpbYalDlOtEXAmT9Z1BCPWGA/viewform?usp=dialog).
+
+We highly recommend people to attend our workshop in-person, as this will facilitate research discussion with all speakers and other participants in-person. Registration is mandatory for people who plan to attend physically, as the registration information will be leveraged for us to order food and book a room.
+
+Meanwhile, we also offer the zoom option for audience who can only attend the workshop remotely.
+
+The registration link is [here](https://docs.google.com/forms/d/e/1FAIpQLSe5cdHj8TLBz1V_uehZOWMdS8qpbYalDlOtEXAmT9Z1BCPWGA/viewform?usp=dialog).
 
 ## Organizers
 
