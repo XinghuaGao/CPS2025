@@ -101,7 +101,7 @@ The registration link is [here](https://docs.google.com/forms/d/e/1FAIpQLSe5cdHj
       <a href="https://enge.vt.edu/People/instructors-and-pop/benchambers.html">
         <img src="image/BenChambers.jpg" alt="BenChambers" width="200"/><br />
         <strong>Benjamin Chambers</strong><br />
-        Assistant Professor<br />
+        Collegiate Assistant Professor<br />
         Department of Engineering Education<br />
         Virginia Tech
       </a>
@@ -126,7 +126,7 @@ The registration link is [here](https://docs.google.com/forms/d/e/1FAIpQLSe5cdHj
 | **10:50 – 11:00 AM**  | **Welcome Speech by Xinghua Gao (snacks provided)**                                                                                       |
 | **11:00 AM – 12:20 PM** | **First Session** (four presentations)<br/> • Dr. Long Cheng — *Security and Privacy in Smart Home and Cyber-Physical Systems* <br/> • Dr. Haibo Zeng — *TBD* <br/> • Dr. Mengxi Zhang — *Harnessing Wearable Technology to Enhance Maternal Health* <br/> • Dr. Lu Feng — *Towards Safe and Trustworthy Cyber-Physical Systems* |
 | **12:20 PM – 1:20 PM**| **Lunch**                                                                                                                                |
-| **1:20 – 2:20 PM**    | **Second Session** (three presentations)<br/> • Dr. Benjamin Chambers — *TBD* <br/> • Dr. Yiming Feng — *TBD* <br/> • Dr. Xinghua Gao — *Generative AI Agents for Smart Building Cybersecurity*                                                                                               |
+| **1:20 – 2:20 PM**    | **Second Session** (three presentations)<br/> • Dr. Benjamin Chambers — *Active Learning with Cyber-Physical Systems* <br/> • Dr. Yiming Feng — *TBD* <br/> • Dr. Xinghua Gao — *Generative AI Agents for Smart Building Cybersecurity*                                                                                               |
 | **2:20 PM – 2:30 PM** | **Closing Remark by Na Meng**                                                                                                             |
 
 
