@@ -14,7 +14,7 @@ We highly recommend people to attend our workshop in-person, as this will facili
 
 Meanwhile, we also offer the zoom option for audience who can only attend the workshop remotely.
 
-The registration link is [here](https://docs.google.com/forms/d/e/1FAIpQLSe5cdHj8TLBz1V_uehZOWMdS8qpbYalDlOtEXAmT9Z1BCPWGA/viewform?usp=dialog).
+The registration link is closed. Thank you for your interest. We will post more information about the workshop later.
 
 ## Organizers
 
