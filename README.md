@@ -126,7 +126,7 @@ The registration link is closed. Thank you for your interest. We will post more 
 | **10:50 – 11:00 AM**  | **Welcome Speech by Xinghua Gao (snacks provided)**                                                                                       |
 | **11:00 AM – 12:20 PM** | **First Session** (four presentations)<br/> • Dr. Long Cheng — *Security and Privacy in Smart Home and Cyber-Physical Systems* <br/> • Dr. Haibo Zeng — *Online Mechanisms for CPS Safety and Security* <br/> • Dr. Mengxi Zhang — *Harnessing Wearable Technology to Enhance Maternal Health* <br/> • Dr. Lu Feng — *Towards Safe and Trustworthy Cyber-Physical Systems* |
 | **12:20 PM – 1:20 PM**| **Lunch**                                                                                                                                |
-| **1:20 – 2:20 PM**    | **Second Session** (three presentations)<br/> • Dr. Benjamin Chambers — *Active Learning with Cyber-Physical Systems* <br/> • Dr. Yiming Feng — *TBD* <br/> • Dr. Xinghua Gao — *Generative AI Agents for Smart Building Cybersecurity*                                                                                               |
+| **1:20 – 2:20 PM**    | **Second Session** (three presentations)<br/> • Dr. Benjamin Chambers — *Active Learning with Cyber-Physical Systems* <br/> • Dr. Yiming Feng — *Seafood Bioprocessing, Validation and Engineering* <br/> • Dr. Xinghua Gao — *Generative AI Agents for Smart Building Cybersecurity*                                                                                               |
 | **2:20 PM – 2:30 PM** | **Closing Remark by Na Meng**                                                                                                             |
 
 
